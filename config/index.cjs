@@ -8,11 +8,12 @@
 const USER_CONFIG = {
 
   //USE_PASSAGE: 'push-deer',
+  USE_PASSAGE: 'push-plus',
   // 使用微信测试号：公众号APP_ID
-  APP_ID: 'wx0aa00332916c32c4',
+  APP_ID: '',//wx0aa00332916c32c4
 
   // 使用微信测试号：公众号APP_SECRET
-  APP_SECRET: '3842a992137c9c7622dc910df6093025',
+  APP_SECRET: '',//3842a992137c9c7622dc910df6093025
 
   PROVINCE: '山东',
   CITY: '济南',
@@ -22,9 +23,9 @@ const USER_CONFIG = {
       // 想要发送的人的名字
       name: '董先生',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oRb1k6fgXXjDUgbyTKj1JdqsxWZk',
+      id: '260926c919e346da9deca11f59f42c2e',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
-      useTemplateId: 'Ase9PNxj78l6dfsCIMdfRRFfwjQtCHrXjBpEq9NbhaY',
+      useTemplateId: '0001',//Ase9PNxj78l6dfsCIMdfRRFfwjQtCHrXjBpEq9NbhaY
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-22',
       festivals: [
@@ -58,7 +59,7 @@ const USER_CONFIG = {
     {
       name: '自己',
       // 使用微信测试号：自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: 'oRb1k6fgXXjDUgbyTKj1JdqsxWZk',
+      id: '',
     }
   ],
 
