@@ -24,7 +24,7 @@ const USER_CONFIG = {
       name: '媛媛子',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       
-      id: '260926c919e346da9deca11f59f42c2e',//董:260926c919e346da9deca11f59f42c2e,媛媛子:9eeb0a3d33594bf6afdeb5a2d2b8257e
+      id: '9eeb0a3d33594bf6afdeb5a2d2b8257e',//董:260926c919e346da9deca11f59f42c2e,媛媛子:9eeb0a3d33594bf6afdeb5a2d2b8257e
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',//Ase9PNxj78l6dfsCIMdfRRFfwjQtCHrXjBpEq9NbhaY
       // 所在省份或城市，也可以不填
