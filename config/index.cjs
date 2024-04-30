@@ -30,7 +30,7 @@ const USER_CONFIG = {
       // 所在省份或城市，也可以不填
       province: '湖南',
       // 所在城市或县区
-      city: '常宁',
+      city: '衡阳',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-22',
       festivals: [
