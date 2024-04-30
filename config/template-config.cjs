@@ -26,14 +26,13 @@ const TEMPLATE_CONFIG = [
       
       {{career_horoscope.DATA}}
      
-      {{love_horoscope.DATA }}
+      {{love_horoscope.DATA}}
       
       {{comprehensive_horoscope.DATA}}
       
       ---
 
-      {{note_ch.DATA}}
-      {{note_en.DATA}}
+      每日一言：{{one_talk.DATA}}-{{talk_from.DATA}}
 
       ---
       
