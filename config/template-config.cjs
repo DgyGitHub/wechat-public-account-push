@@ -7,6 +7,8 @@ const TEMPLATE_CONFIG = [
       **{{date.DATA}}**
       
       下个休息日：{{holidaytts.DATA}}
+
+      {{course_schedule.DATA}}
       
       ---
       
