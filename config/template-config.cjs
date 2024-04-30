@@ -6,14 +6,6 @@ const TEMPLATE_CONFIG = [
     desc: `
       **{{date.DATA}}**
       
-      下个休息日：{{holidaytts.DATA}}
-      
-      ---
-      
-      {{course_schedule.DATA}}
-      
-      ---
-      
       城市：{{city.DATA}}
       
       天气：{{weather.DATA}}
@@ -24,10 +16,25 @@ const TEMPLATE_CONFIG = [
       
       风级: {{wind_scale.DATA}}
       
-      {{comprehensive_horoscope.DATA}}
+      ---
+      
+      {{course_schedule.DATA}}
+      
+      ---
 
       {{healthy_horoscope.DATA}}
+
+      {{career_horoscope.DATA}}
+
+      {{love_horoscope.DATA }}
+
+      {{comprehensive_horoscope.DATA}}
       
+      ---
+
+      {{note_ch.DATA}}
+      {{note_en.DATA}}
+
       ---
       
       今天是我们相识的第{{love_day.DATA}}天
