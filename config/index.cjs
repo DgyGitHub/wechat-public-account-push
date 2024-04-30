@@ -15,8 +15,8 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '',//3842a992137c9c7622dc910df6093025
 
-  PROVINCE: '',
-  CITY: '',
+  PROVINCE: '湖南',
+  CITY: '常宁',
 
   USERS: [
     {
@@ -58,6 +58,10 @@ const USER_CONFIG = {
       // 如果courseSchedule是一个数组，则认为不区分单双周，直接填写星期几对应的课表数据即可
       // 如果courseSchedule是一个对象（如下面所示）
       courseSchedule: {
+        // 单双周的基准
+        benchmark: {
+          
+        },
         // 课表
         courses: {
           // 单周课表
