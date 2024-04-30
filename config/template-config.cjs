@@ -32,7 +32,9 @@ const TEMPLATE_CONFIG = [
       
       ---
 
-      每日一言：{{one_talk.DATA}}-{{talk_from.DATA}}
+      每日一言：{{one_talk.DATA}}
+      
+      来源:{{talk_from.DATA}}
 
       ---
       
