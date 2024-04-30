@@ -22,12 +22,12 @@ const TEMPLATE_CONFIG = [
       
       ---
 
-      {{healthy_horoscope.DATA}}
-
+      {{healthy_horoscope.DATA}}  
+      ---
       {{career_horoscope.DATA}}
-
+      ---
       {{love_horoscope.DATA }}
-
+      ---
       {{comprehensive_horoscope.DATA}}
       
       ---
