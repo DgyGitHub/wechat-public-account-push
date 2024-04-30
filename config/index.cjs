@@ -27,6 +27,10 @@ const USER_CONFIG = {
       id: '260926c919e346da9deca11f59f42c2e',//董:260926c919e346da9deca11f59f42c2e
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       useTemplateId: '0001',//Ase9PNxj78l6dfsCIMdfRRFfwjQtCHrXjBpEq9NbhaY
+      // 所在省份或城市，也可以不填
+      province: '湖南',
+      // 所在城市或县区
+      city: '常宁',
       // 新历生日, 仅用作获取星座运势, 格式必须为MM-DD
       horoscopeDate: '01-22',
       festivals: [
